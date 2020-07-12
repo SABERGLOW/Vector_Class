@@ -1,4 +1,4 @@
-# Vector_Class
+# Vector Class
 Home made vector class in C++.
 
 # Overview:
